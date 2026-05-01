@@ -24,7 +24,7 @@ const dataWork: DataWork[] = [
         "https://www.figma.com/design/4EIb4XmGCEj3hPeCUPkfZc/E-commerce-eco-electr%C3%B3nica?node-id=129-77&t=dsaTEaq59EIdznuN-1 ",
       title: "Diseño sitio web EcoTech",
       summary:
-        "Diseño  de sitio web que fomenta la compra de electrónica sustentable, ayudando a visibilizar las marcas que aportan a la concientización de la reducción de desechos y a liderar la transición hacia una tecnología más verde.",
+        "Diseño  de sitio web que fomenta la compra de electrónica sustentable, ayudando a visibilizar las marcas que aportan a la concientización de la reducción de desechos y a  liderar la transición hacia una tecnología más verde.",
     },
   },
   {

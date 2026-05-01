@@ -50,7 +50,7 @@ export const dataCertificates: Certificates[] = [
   },
   {
     id: "certificates-6",
-    name: "React",
+    name: "React_Js",
     url: IMGREACT,
     buttom: IMGBUTTON,
   },
