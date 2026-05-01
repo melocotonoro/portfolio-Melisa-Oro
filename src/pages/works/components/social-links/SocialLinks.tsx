@@ -45,7 +45,7 @@ const SocialLinks = ({ id, work, url, onClick }: Props) => {
 
   return (
     <div>
-      <div className="w-44 h-25 flex flex-col items-center justify-evenly absolute bottom-0 left-0 bg-text-orange rounded-tr-2xl rounded-bl-4xl inset-shadow-sm inset-shadow-orange-blur-top shadow-sm shadow-orange-blur-bottom">
+      <div className="in-w-44 h-25 px-2 flex flex-col items-center justify-evenly absolute bottom-0 left-0 bg-text-orange rounded-tr-2xl rounded-bl-4xl inset-shadow-sm inset-shadow-orange-blur-top shadow-sm shadow-orange-blur-bottom">
         <p className="text-[22px] font-medium">{work}</p>
 
         <div className="w-38 h-11 flex justify-between">
